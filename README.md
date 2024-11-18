@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hey there! I'm dk kumar khidhari yadav.</h1>
 <h3 align="center">a passionate individual with a love for cars, coding, fitness, and entrepreneurship. </h3>
+<img align="right" alt="laado chus" width="1000" src="https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/US-local/Press-Releases/2022/October-2022/20221021-GT3-RS-Tribute/Exterior/PCNA22_1123_fine.jpg/jcr:content/PCNA22_1123_fine.jpg?fbclid=IwAR2CNLHwVFDykQCtTHz7OfXMeLmZVdVSfrhYen7rItmdkGvnyGNvR4x2zIQ_aem_AUS9IZN3mEZZNS1UPX7cGvFLGQNqc3aFsmaEp3nHjr_qehBKmjnnTlB4-6LD3gswtcuaJw_N_jhS16GfHj6Q92vP">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkkhidhari123&label=Profile%20views&color=0e75b6&style=flat" alt="dkkhidhari123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkkhidhari123" alt="dkkhidhari123" /></a> </p>
